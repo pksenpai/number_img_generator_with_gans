@@ -23,7 +23,7 @@ First Samples             |  Latest Samples(8 epoch)
 ![](DCGAN/DCGAN_first_test_samples.png)  |  ![](DCGAN/DCGAN_latest_test_samples.png)
 
 ## SGAN:
-- Similar to DCGAN, but useing semi-supervised learning for the discriminator.
+- similar to DCGAN, but useing semi-supervised learning for the discriminator.
 - model has a lighter & more accurate discriminator than DCGAN.
 
 First Samples             |  Latest Samples(8 epoch)
@@ -31,8 +31,8 @@ First Samples             |  Latest Samples(8 epoch)
 ![](DCGAN/DCGAN_first_test_samples.png)  |  ![](DCGAN/DCGAN_latest_test_samples.png)
 
 ## CGAN:
-- you use labeled data to provide context to a conditional GAN. 
-- allowing you to get better, more targeted results from the generator.
+- using labeled data to provide context to a conditional GAN.
+- allowing to get better, more targeted results from the generator.
 
 First Samples             |  Latest Samples(18 epoch)
 :-------------------------:|:-------------------------:
