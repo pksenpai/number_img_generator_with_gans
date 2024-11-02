@@ -4,14 +4,19 @@
 
 ----------------------------------------------------------------------------
 ## tGAN:
-- Using Dense layers.
+- using Dense layers.
+- a basic model & the neighborhood of pixels is not considered.
+- no feature maps.
 
 First Samples             |  Latest Samples
 :-------------------------:|:-------------------------:
 ![](GAN/GAN_first_test_samples.png)  |  ![](GAN/GAN_latest_test_samples.png)
 
 ## DCGAN:
-- Using convolutional & deconvolutional layers.
+- using convolutional & deconvolutional layers.
+- the neighborhood of pixels is considered.
+- feature maps & depth.
+- has a cleaner output.
 
 First Samples             |  Latest Samples
 :-------------------------:|:-------------------------:
