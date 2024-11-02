@@ -22,6 +22,7 @@ First Samples             |  Latest Samples
 :-------------------------:|:-------------------------:
 ![](DCGAN/DCGAN_first_test_samples.png)  |  ![](DCGAN/DCGAN_latest_test_samples.png)
 
+
 ## CGAN:
 First Samples             |  Latest Samples
 :-------------------------:|:-------------------------:
