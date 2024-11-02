@@ -6,7 +6,7 @@
 ## tGAN:
 - using Dense layers.
 - a basic model & the neighborhood of pixels is not considered.
-- no feature maps.
+- no feature extraction & no feature maps.
 
 First Samples             |  Latest Samples
 :-------------------------:|:-------------------------:
