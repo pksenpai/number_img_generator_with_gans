@@ -1,4 +1,4 @@
-# Numbers Generator
+# Number Generator
 - Generate numbers with mnist dataset and tGAN, DCGAN, SGAN & CGAN models.
 - Using Keras library & tensorflow backend.
 
