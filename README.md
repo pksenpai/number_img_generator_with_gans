@@ -31,8 +31,10 @@ First Samples             |  Latest Samples(8 epoch)
 ![](DCGAN/DCGAN_first_test_samples.png)  |  ![](DCGAN/DCGAN_latest_test_samples.png)
 
 ## CGAN:
+- you use labeled data to provide context to a conditional GAN. 
+- allowing you to get better, more targeted results from the generator.
 
 First Samples             |  Latest Samples(18 epoch)
 :-------------------------:|:-------------------------:
-![]()  |  ![]()
+![](CGAN/CGAN_first_test_samples.png)  |  ![](CGAN/CGAN_latest_test_samples.png)
 
